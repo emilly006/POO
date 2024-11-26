@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rebeccapurple;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 280px;
+    height: 150vh;
+    margin-left: 600px;
+}
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    background-color: #292B2F;
+    border-radius: 30px;
+    width: 280px;
+    height: 150vh;
+    padding: 10px;
+    text-align: center;
+
+}
+
+
+.caixa {
+    border: solid 1px rgb(196, 195, 195);
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+
+}
+
+.card {
+    padding: 20px;
+    width: 137;
+    height: 176px;
+}
+
+p {
+    margin: 10px;
+    color: #7C7C7C;
+}
+
+.regantulo {
+    background-position: top;
+}
